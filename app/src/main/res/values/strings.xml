@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">login_Test_2</string>
+    <string name="gender">select gender</string>
+
+    <string-array name="gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+        <item>N/A</item>
+    </string-array>
+</resources>

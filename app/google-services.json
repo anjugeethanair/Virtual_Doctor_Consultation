@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "903282787167",
+    "firebase_url": "https://apothecary-c2d30.firebaseio.com",
+    "project_id": "apothecary-c2d30",
+    "storage_bucket": "apothecary-c2d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903282787167:android:0ffb5e5cf3d80a9d",
+        "android_client_info": {
+          "package_name": "com.example.anju.login_test_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903282787167-uc3qevuteb442pqmcjcvuocb5f78ri2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anju.login_test_2",
+            "certificate_hash": "f19263fe086a4bef94106fb6bd6b779249f2d6cb"
+          }
+        },
+        {
+          "client_id": "903282787167-ui2rg8pcfn00iochdhpp700hdvjs3pra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1mEbVpoJs7cI90PVwe7idgOig1g7E9dQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903282787167-rrkdvuhs74qlmgg1h3hss0m64th5svav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
